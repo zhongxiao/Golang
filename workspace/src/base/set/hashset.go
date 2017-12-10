@@ -4,7 +4,7 @@
  *  @description
  *   extension type of HashSet for practices
  */
-// HashSet
+// set
 package set
 
 import (

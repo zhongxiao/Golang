@@ -5,7 +5,7 @@
  *    basic test method for go language which is imported
  *    by main program; UT program and benchmark programe
  */
-// first_go
+// main
 package main
 
 import (
